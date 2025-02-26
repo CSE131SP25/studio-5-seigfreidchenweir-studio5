@@ -18,4 +18,5 @@ import studio5.tests.SubstituteAllTestSuite;
 		FilledArrayTestSuite.class, ArrayMeanTestSuite.class, FilledArraySumAndMeanComprehensiveTest.class })
 public class MethodsTestSuite {
 
+	
 }
